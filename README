@@ -1,0 +1,17 @@
+/**
+ * Poker - 5 Card Draw
+ *
+ * Authors: Alexander Nichols, Evan Tyra, Daniel Bond, Michael Bjorge
+ * ECE 373 : Software (Intensive) Engineering
+ * Fall 2013
+ */
+
+To build the poker executable, just run make in the base directory.
+
+To run the game, just run ./poker
+
+The game is standard 5 card draw poker. You play against 3 computer players. You are given a set amount of money at the start. If at any point you are unable to make the minimum ante to play, you are kicked out.
+
+Stubs, drivers, and test suits are in the /tests folder
+
+Class diagrams, the requirements document, initial class diagrams, and the contract are the in the /documentation folder
